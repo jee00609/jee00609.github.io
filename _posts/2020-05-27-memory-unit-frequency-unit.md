@@ -1,10 +1,10 @@
 ---
 title: "헷갈리는 단위 체계 정리"
 categories:
-  - 정보처리기사
+  - Engineer Information Processing
 tags:
-  - 정보처리기사
-  - 상식
+  - Engineer Information Processing
+  - Common sense
 last_modified_at: 2020-05-27
 ---
 
