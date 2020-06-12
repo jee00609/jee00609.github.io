@@ -103,7 +103,7 @@ analytics:
 #사이드바에 표시되는 사항들이다.
 author:
   name             : "적분"
-  avatar           : "/assets/images/dragon_icon_by_Freepik.png" #아이콘 제작자 Freepik,https://www.flaticon.com/kr/free-icon/dragon_477110
+  avatar           : "/assets/images/dragon-icon-by-Freepik.png" #아이콘 제작자 Freepik,https://www.flaticon.com/kr/free-icon/dragon_477110
   bio              : "꾸준히 공부하는 개발자입니다. <br> 현재 한이음 프로젝트 및 <br> 정보처리기사 시험을 준비중입니다."
   location         : "Republic of Korea"
   email            : "jee00609@naver.com"
