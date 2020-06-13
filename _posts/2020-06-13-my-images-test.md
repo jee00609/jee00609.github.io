@@ -24,6 +24,7 @@ URL로 사진을 참조할 시 HTTPS 이면 참조가 되지 않는 것 같다.
 
 <figure class="align-center">
   <a href="/assets/images/gof-types.png"></a>
+  <figcaption>이미지가 나오지 않을 경우 설명</figcaption>
 </figure>
 
 위의 사진은 assets 파일의 images 파일 내부에 있는 로컬 이미지를 삽입한 것이다. 
