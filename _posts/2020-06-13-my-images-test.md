@@ -1,7 +1,7 @@
 ---
 title: "이미지 삽입 테스트"
 header:
-  teaser: "http://cslin.skuniv.ac.kr/~kimmije1009/BookWriterReader/img/img.jpg"
+  teaser: "https://image.flaticon.com/icons/svg/477/477110.svg"
 categories:
   - Blog
 tags: 
@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2020-06-13
 ---
 <figure style="width: 150px" class="align-left">
-  <a href="http://cslin.skuniv.ac.kr/~kimmije1009/BookWriterReader/img/img.jpg"><img src="http://cslin.skuniv.ac.kr/~kimmije1009/BookWriterReader/img/img.jpg"></a>
+  <a href="https://image.flaticon.com/icons/svg/477/477110.svg"><img src="https://image.flaticon.com/icons/svg/477/477110.svg"></a>
   <figcaption>이것은 설명 칸 이다.</figcaption>
 </figure>
 This image is made by **Freepik**.
