@@ -11,8 +11,8 @@ tags:
 last_modified_at: 2020-06-13
 ---
 <figure style="width: 150px" class="align-left">
-  <a href="http://cslin.skuniv.ac.kr/~kimmije1009/BookWriterReader/img/img.jpg"></a>
-  <figcaption>이미지가 나오지 않을 경우 설명</figcaption>
+  <a href="http://cslin.skuniv.ac.kr/~kimmije1009/BookWriterReader/img/img.jpg"><img src="http://cslin.skuniv.ac.kr/~kimmije1009/BookWriterReader/img/img.jpg"></a>
+  <figcaption>이것은 설명 칸 이다.</figcaption>
 </figure>
 This image is made by **Freepik**.
 
