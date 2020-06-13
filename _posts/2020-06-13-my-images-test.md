@@ -23,7 +23,7 @@ URL로 사진을 참조할 시 HTTPS 이면 참조가 되지 않는 것 같다.
 별표 두개 사용시 **강조** 할 수 있는 것 같다.
 
 <figure class="align-center">
-  <a href="/assets/images/gof-types.png"></a>
+  <img src="/images/gof-types.png">
   <figcaption>이미지가 나오지 않을 경우 설명</figcaption>
 </figure>
 
