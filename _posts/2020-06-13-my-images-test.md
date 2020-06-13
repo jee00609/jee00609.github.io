@@ -12,7 +12,7 @@ last_modified_at: 2020-06-13
 ---
 <figure style="width: 150px" class="align-left">
   <a href="https://image.flaticon.com/icons/svg/477/477110.svg"></a>
-  <figcaption>figcaption</figcaption>
+  <figcaption>이미지가 나오지 않을 경우 설명</figcaption>
 </figure>
 This image is made by **Freepik**.
 
