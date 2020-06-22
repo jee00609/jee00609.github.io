@@ -1,7 +1,7 @@
 ---
 title: "2020년 정보처리기사 필기 문제 풀이 6번"
 header:
-  teaser: "/assets/images/ISO-IEC-9126.png"
+  teaser: "https://www.ibm.com/support/knowledgecenter/ko/SS4JE2_7.5.5/com.ibm.xtools.modeler.doc/images/tasnstyp.gif"
 categories:
   - Engineer Information Processing
 tags: 
