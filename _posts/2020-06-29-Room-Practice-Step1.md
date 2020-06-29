@@ -44,10 +44,10 @@ public class Wifi {
     private float Xcors;
     private float Ycors;
 
-    public Wifi(@NonNull String ContentID, float Xcors, float Ycors) {
+    public Wifi(@NonNull String ContentID, float xcors, float ycors) {
         this.ContentID = ContentID;
-        this.Xcors = Xcors;
-        this.Ycors = Ycors;
+        this.Xcors = xcors;
+        this.Ycors = ycors;
     }
 
     @NonNull
@@ -55,24 +55,24 @@ public class Wifi {
         return ContentID;
     }
 
-    public void setContentID(@NonNull String ContentID) {
-        this.ContentID = ContentID;
+    public void setContentID(@NonNull String contentID) {
+        this.ContentID = contentID;
     }
 
     public float getXcors() {
         return Xcors;
     }
 
-    public void setXcors(float Xcors) {
-        this.Xcors = Xcors;
+    public void setXcors(float xcors) {
+        this.Xcors = xcors;
     }
 
     public float getYcors() {
         return Ycors;
     }
 
-    public void setYcors(float Ycors) {
-        this.Ycors = Ycors;
+    public void setYcors(float ycors) {
+        this.Ycors = ycors;
     }
 
     @Override
