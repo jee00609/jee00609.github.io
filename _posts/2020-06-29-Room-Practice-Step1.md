@@ -44,8 +44,8 @@ public class Wifi {
     private float Xcors;
     private float Ycors;
 
-    public Wifi(@NonNull String ContentID, float xcors, float ycors) {
-        this.ContentID = ContentID;
+    public Wifi(@NonNull String contentID, float xcors, float ycors) {
+        this.ContentID = contentID;
         this.Xcors = xcors;
         this.Ycors = ycors;
     }
