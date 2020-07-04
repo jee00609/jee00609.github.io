@@ -1,5 +1,5 @@
 ---
-title: "2020년 정보처리기사 필기 문제 풀이 10번"
+title: "2020년 정보처리기사 필기 문제 풀이 11번"
 categories:
   - Engineer Information Processing
 tags: 
