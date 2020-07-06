@@ -1,9 +1,10 @@
 ---
 title: "한이음 회의록"
 categories:
-  - Life
+  - Hanium
 tags: 
   - Life
+  - Hanium
 last_modified_at: 2020-06-25
 ---
 
