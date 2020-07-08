@@ -1,5 +1,5 @@
 ---
-title: "라즈베리 파이 4 모니터 없이 무선 연결 하기"
+title: "라즈베리 파이 4 Step 1 모니터 없이 무선 연결 하기"
 
 categories:
   - Hanium
