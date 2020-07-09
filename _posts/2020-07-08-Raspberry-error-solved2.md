@@ -12,14 +12,14 @@ last_modified_at: 2020-07-08
 
 라즈베리 파이 4 를 모니터 연결 없이 무선 연결 하는 법을 작성했었다.
 
-[STEP 1 라즈베리 파이 OS 설치 및 무선 연결](https://jee00609.github.io/hanium/Raspberry-error-solved/)
+[STEP 1 라즈베리 파이 OS 설치 및 무선 연결](https://jee00609.github.io/hanium/Raspberry-error-solved1/)
 
 원래는 매우 쉽고 간단하게 Micro HDMI 를 통해 바로 연결하고자 했다.
 
 물론 이 글을 쓰는 이유처럼 HDMI 로 연결 하지 못했다.
 
 <figure class="align-center">
-  <img src="/assets/jjal/ggang.jpg" width= '100'>
+  <img src="/assets/jjal/ggang.jpg" width= "150px">
   <figcaption>누구나 그럴싸한 계획을 가지고 있다. 화면이 그대로이기 전까지는</figcaption>
 </figure>
 
