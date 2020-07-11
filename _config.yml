@@ -9,7 +9,7 @@ title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome 
 subtitle                 : "Version 1.0" # 타이틀 아래에 나올 작은 글씨 
 name                     : "적분" # 맨 하단 이름 찍히는 영역
 description              : "정보처리기사 준비중 + 한이음 프로젝트 진행" # Meta 태그에 들어가는 영역 
-url                      : "https://jee00609.github.io" # GitBlog 호스트 주소
+url                      : "https://jee00609.github.io/" # GitBlog 호스트 주소
 baseurl                  : # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "jee00609/jee00609.github.io" # GitHub username/repo-name  
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
@@ -113,7 +113,7 @@ author:
       #url: mailto:jee00609@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jee00609.github.io"
+      url: "https://jee00609.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
