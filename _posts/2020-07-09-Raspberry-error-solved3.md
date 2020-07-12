@@ -28,7 +28,7 @@ Locale 에서 Language: ko , Character Set: UTF-8 로 변경했을 때 한글 �
 
 [STEP 1 라즈베리 파이 OS 설치 및 무선 연결](https://jee00609.github.io/hanium/Raspberry-error-solved1/)
 
-[STEP 1 라즈베리 파이 화면을 노트북에 띄우기](https://jee00609.github.io/hanium/Raspberry-error-solved2/)
+[STEP 2 라즈베리 파이 화면을 노트북에 띄우기](https://jee00609.github.io/hanium/Raspberry-error-solved2/)
 
 ## 필요한 준비물
 
