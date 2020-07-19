@@ -1,5 +1,5 @@
 ---
-title: "한이음 회의 준비 교육용 프로그램 자료 수집"
+title: "한이음 회의록 2"
 categories:
   - Hanium 
 tags:
