@@ -12,10 +12,10 @@ last_modified_at: 2020-08-10
 
 ## 중간보고서
 
-[중간보고서]("/assets/files/200810/InterimReoport.docx")
+[중간보고서](/assets/files/200810/InterimReoport.docx)
 
 
 ## PPT
 
-[PPT]("/assets/files/200810/RobotWithSmartmirror")
+[PPT](/assets/files/200810/RobotWithSmartmirror)
 
