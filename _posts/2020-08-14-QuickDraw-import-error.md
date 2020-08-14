@@ -32,7 +32,7 @@ last_modified_at: 2020-08-14
    * Tensorflow 를 사용하기에 따로 가상환경을 만들어 주는 것이 좋다.
       * [가상 환경이 필요한 이유](https://chancoding.tistory.com/85)
    * [gautamkumarjaiswal](https://github.com/gautamkumarjaiswal/QucikDraw) 의 프로젝트르 fork 또는 zip 파일로 다운받을 것
-      * 이 포스팅 자체가 Akshay Bahadur 님의 코드를 기반으로 한다.
+      * 이 포스팅 자체가 gautamkumarjaiswal 님의 코드를 기반으로 한다.
 
    ```ruby
 /*
