@@ -22,6 +22,11 @@ last_modified_at: 2020-08-12
 
 또한 다음 포스팅에서 참고한 프로젝트에서 어떤 부분을 고쳐야 하는지 설명하겠다.
 
+## QuickDraw 문서
+
+   * Step 1. [QuickDraw로 플레이 : 실시간 애플리케이션 - 번역](https://jee00609.github.io/quickdraw/QuickDraw-Translation/)
+   * Step 2. [QuickDraw로 플레이 : 실시간 애플리케이션 - 코드 설명](https://jee00609.github.io/quickdraw/QuickDraw-import-error/)
+
 ## QuickDraw 란 무엇입니까?
 
 Pictionary는 한 사람이 공중에있는 물체의 모양이나 그림을 그리고 다른 사람이 그것을 추측해야하는 게임입니다. Pictionary와 마찬가지로 Quickdraw는 카메라 앞에 패턴을 그리고 컴퓨터가 당신이 그린 것을 추측하게하는 게임입니다.
