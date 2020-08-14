@@ -116,5 +116,7 @@ from keras.callbacks import TensorBoard
 ## 사이트
 
 [이 포스팅의 기반이 되는 프로젝트 - gautamkumarjaiswal](https://github.com/gautamkumarjaiswal/QucikDraw)
+
 [참고하면 좋은 사이트 - 퀵드로우 데이터셋](https://github.com/googlecreativelab/quickdraw-dataset)
+
 [참고하면 좋은 사이트 - 가상환경](https://chancoding.tistory.com/85)
