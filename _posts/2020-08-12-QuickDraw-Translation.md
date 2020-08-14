@@ -1,5 +1,5 @@
 ---
-title: "QuickDraw로 플레이 : 실시간 애플리케이션 - 번역"
+title: "QuickDraw로 플레이- 번역"
 
 categories:
   - QuickDraw
@@ -24,8 +24,8 @@ last_modified_at: 2020-08-12
 
 ## QuickDraw 문서
 
-   * Step 1. [QuickDraw로 플레이 : 실시간 애플리케이션 - 번역](https://jee00609.github.io/quickdraw/QuickDraw-Translation/)
-   * Step 2. [QuickDraw로 플레이 : 실시간 애플리케이션 - 코드 설명](https://jee00609.github.io/quickdraw/QuickDraw-import-error/)
+   * Step 1. [QuickDraw로 플레이- 번역](https://jee00609.github.io/quickdraw/QuickDraw-Translation/)
+   * Step 2. [QuickDraw로 플레이 - import 에러 해결](https://jee00609.github.io/quickdraw/QuickDraw-import-error/)
 
 ## QuickDraw 란 무엇입니까?
 
