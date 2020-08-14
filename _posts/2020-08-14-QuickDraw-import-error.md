@@ -109,7 +109,7 @@ import pickle
 from keras.callbacks import TensorBoard
    ```
 
-##비고
+## 비고
 
 현재 import 에러만 고친 것이라 코드 부분에서 에러나는 것을 고쳐야 한다.
 
