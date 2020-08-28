@@ -30,3 +30,9 @@ last_modified_at: 2020-08-08
 
 완성 시 올릴 것
 
+## UPDATE
+
+2020-08-28
+
+[완성](https://github.com/jee00609/QuickDraw_Canvas)
+
