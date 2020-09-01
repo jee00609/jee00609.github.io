@@ -1,5 +1,5 @@
 ---
-title: "QuickDraw로 플레이 - 그림판을 통한 퀵드로우 게임 제작"
+title: "QuickDraw로 플레이 - 그림판을 통한 퀵드로우 게임"
 
 categories:
   - QuickDraw
@@ -75,11 +75,11 @@ This project was created by referring to the project of [gautamkumarjaiswal](htt
 
 ### 시작 이미지
 
-<img src="https://user-images.githubusercontent.com/31675804/90640752-58f43980-e26b-11ea-8a88-33d1861ed9ca.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/31675804/90640752-58f43980-e26b-11ea-8a88-33d1861ed9ca.PNG" width="90%">
 
 ### 그림 인식
 
-<img src="https://user-images.githubusercontent.com/31675804/90640961-9a84e480-e26b-11ea-9dea-37d236d5e3ec.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/31675804/90640961-9a84e480-e26b-11ea-9dea-37d236d5e3ec.PNG" width="90%">
 
 ## 비고
   * runWebCam.py 파일은 [gautamkumarjaiswal](https://github.com/gautamkumarjaiswal/QucikDraw) 님의 프로젝트의 파일로, 코드의 해석에 어려움이 있었기에 따로 한글로 주석을 추가했습니다.
