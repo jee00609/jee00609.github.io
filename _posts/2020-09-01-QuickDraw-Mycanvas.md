@@ -85,3 +85,5 @@ This project was created by referring to the project of [gautamkumarjaiswal](htt
   * runWebCam.py 파일은 [gautamkumarjaiswal](https://github.com/gautamkumarjaiswal/QucikDraw) 님의 프로젝트의 파일로, 코드의 해석에 어려움이 있었기에 따로 한글로 주석을 추가했습니다.
   
   * 코드 실행에 어려움이 있으시면 [gautamkumarjaiswal](https://github.com/gautamkumarjaiswal/QucikDraw) 님의 README 를 읽고 runWebCam.py 대신 imagePredict.py 를 실행해주세요.
+
+  * [프로젝트 전문](https://github.com/jee00609/QuickDraw_Canvas)
