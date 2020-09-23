@@ -45,7 +45,7 @@ last_modified_at: 2020-07-08
 
 ## 라즈베리 파이에 TightVNC server 설치
 
-띄워쓰기 조심하자
+띄어쓰기 조심하자
 
    ```ruby
 sudo apt-get install tightvncserver
