@@ -18,7 +18,7 @@ last_modified_at: 2020-11-01
 
 ## 발음교정 문서
 
-   * Step 1. [공공 인공지능 오픈 API 발음 교정 - 초등학생을 위한 발음교정 프로그램 소개](https://jee00609.github.io/quickdraw/QuickDraw-Translation/)
+   * Step 1. [공공 인공지능 오픈 API 발음 교정 - 초등학생을 위한 발음교정 프로그램 소개](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection/)
 
 ## PronunciationCorrection
 
