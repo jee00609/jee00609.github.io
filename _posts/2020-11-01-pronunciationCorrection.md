@@ -46,11 +46,10 @@ last_modified_at: 2020-11-01
 
 ### 실제 플레이 화면 동영상
 
-<video controls>
-    <source src="/assets/files/201101/pr.mp4"
-            type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
+<figure class="align-center">
+  <img src="/assets/images/2020-11-01-PC-robot.gif">
+  <figcaption>로봇에서 사용한 모습</figcaption>
+</figure>
 
 ## 비고
   * [초등학교 영어 문장초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
