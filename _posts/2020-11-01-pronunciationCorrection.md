@@ -52,6 +52,6 @@ last_modified_at: 2020-11-01
 </figure>
 
 ## 비고
-  * [초등학교 영어 문장초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
+  * [초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
 
   * [프로젝트 전문](https://github.com/jee00609/Pronunciation_Correction)
