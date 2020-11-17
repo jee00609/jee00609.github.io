@@ -52,6 +52,10 @@ last_modified_at: 2020-11-01
   <figcaption>로봇에서 사용한 모습</figcaption>
 </figure>
 
+## 영상
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8BnY6X5w1r8?start=6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 비고
   * [초등학교 영어 문장](http://webcache.googleusercontent.com/search?q=cache:Axn_gfuyaeAJ:hsamnonsul.tistory.com/attachment/cfile6.uf%4013560B374FFC53A427D2FC.hwp+&cd=4&hl=ko&ct=clnk&gl=kr)
 
