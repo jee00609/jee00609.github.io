@@ -1,5 +1,5 @@
 ---
-title: "논문 리뷰 : 인공지능과 제4차 산업혁명의 함의"
+title: "논문 리뷰 : 인공지능과 제4차 산업혁명의 함의 STEP 1"
 
 categories:
   - Paper
@@ -26,10 +26,15 @@ last_modified_at: 2020-11-25
 원동규, 이상필(2016). 인공지능과 제4차 산업혁명의 함의. ie 매거진, 23(2), 13-22.
 {: .small}
 
+[인공지능과 제4차 산업혁명의 함의 STEP 1](https://jee00609.github.io/paper/Paper1-Artificial-intelligence-and-the-implications-of-the-fourth-industrial-revolution/)
+
+[인공지능과 제4차 산업혁명의 함의 STEP 2](https://jee00609.github.io/paper/Paper1-Artificial-intelligence-and-the-implications-of-the-fourth-industrial-revolution2/)
+
+
 ### 목차
 
-   1. 서론
-   2. 인공지능 기술동향
+   1. **서론**
+   2. **인공지능 기술동향**
    3. 인공지능과 제4차 산업혁명
    4. 사회적 안전망으로서의 행위자네트워크 이론의 적용
    5. 맺음말 
