@@ -1,5 +1,5 @@
 ---
-title: "논문 리뷰 : 인공지능과 제4차 산업혁명의 함의 STEP 2"
+title: "논문 정리 : 인공지능과 제4차 산업혁명의 함의 STEP 2"
 
 categories:
   - Paper
