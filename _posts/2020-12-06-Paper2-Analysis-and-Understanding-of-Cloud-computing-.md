@@ -87,7 +87,7 @@ AWS 와 PaaS-TA 서비스를 조금씩이지만 사용해보고 있다.
    * 클라우드 서비스 제공자가 소유한 서비스를 제공받는 경우<br/>(소프트웨어 소유권이 고객에 있는 IaaS와 PaaS와 구분되는 특징이다.)
 
 <figure class="align-center">
-  <img src="/assets/images/2020-12-06-Cloud-kind.png"/>
+  <img src="/assets/images/2020-12-06-Cloud-compare.png"/>
   <figcaption>클라우드 서비스간의 제공하는 서비스 양에 따른 차이점</figcaption>
 </figure>
 
