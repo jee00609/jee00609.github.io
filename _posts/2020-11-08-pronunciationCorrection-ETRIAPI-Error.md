@@ -103,6 +103,13 @@ PCM 데이터란 Header 없이 Raw Data 만 저장된 파일을 의미한다.
 
 그렇다면 음성파일을 어떻게 만드는 것이 좋을까?
 
+대략적으로 두가지 방법이 있다.
+
+   * 기존의 SW 프로그램인 Audacity 를 설치하여 제작하기 
+      *  Audacity 를 이용하여 PCM 을 만드는 방법은 비고의 pcm음성파일제작 PDF 을 보면 된다.
+   * 직접 코드로 구현하기
+      * 아래 나와있는 파이썬 코드가 PCM 형식의 RAW 파일로 음성을 녹음하는 코드다. 
+
 ## PCM 음성 파일 제작기 - SW 이용
 
 가장 쉬운 방법이다. 자세한 내용은 비고에 PDF 를 올려둘 것이다.
@@ -136,9 +143,9 @@ PCM 데이터란 Header 없이 Raw Data 만 저장된 파일을 의미한다.
 이전의 코드는 깃허브 [히스토리](https://github.com/jee00609/Hanium_2020/commit/2668759b951123d3136670c5291ccd787b27ac20#diff-fccffd78ed617d9fa908a4bdde6beb2db98912d02f0a5294109c3341f57e75ad)로, 이전에 stereo 로 녹음한 wav 파일 만드는 법이 적혀있다.
 
    ```ruby
-# 프로젝트 전문의 def startrecording 코드이다.
+# 이 파이썬 코드를 실행하면 마이크를 통해 녹음한 음성을 PCM 형식의 음성파일로 바꿔서 저장합니다.
 # sounddevice 모듈을 먼저 설치 하자!
-# pip install sounddevice <- 명령문
+# sounddevice 설치 방법 -> pip install sounddevice 으로 설치!
 
 import sounddevice as sd
 
@@ -149,7 +156,7 @@ fs = 16000 # sampling frequency 샘플링 주파수
 rec = sd.rec(duration * fs, samplerate=fs, channels=1, dtype='int16')
 sd.wait()
 pcm = rec.tostring()
-with open('audio/test.raw', 'wb') as w:
+with open('sampleAudio.raw', 'wb') as w:
     w.write(pcm)
    ```
 
