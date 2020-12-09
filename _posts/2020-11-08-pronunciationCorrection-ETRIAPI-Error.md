@@ -103,11 +103,11 @@ PCM 데이터란 Header 없이 Raw Data 만 저장된 파일을 의미한다.
 
 그렇다면 음성파일을 어떻게 만드는 것이 좋을까?
 
-대략적으로 두가지 방법이 있다.
+<span style="color:red">대략적으로 두가지 방법이 있다.<span/>
 
-   * 기존의 SW 프로그램인 Audacity 를 설치하여 제작하기 
+   * <span style="color:red">기존의 SW 프로그램인 Audacity 를 설치하여 제작하기 <span/>
       *  Audacity 를 이용하여 PCM 을 만드는 방법은 비고의 pcm음성파일제작 PDF 을 보면 된다.
-   * 직접 코드로 구현하기
+   * <span style="color:red">직접 코드로 구현하기<span/>
       * 아래 나와있는 파이썬 코드가 PCM 형식의 RAW 파일로 음성을 녹음하는 코드다. 
 
 ## PCM 음성 파일 제작기 - SW 이용
@@ -136,7 +136,7 @@ PCM 데이터란 Header 없이 Raw Data 만 저장된 파일을 의미한다.
       6. 헤더 : RAW (header-less)
       7. 인코딩 : Signed 16bit PCM
 
-## PCM 음성 파일 제작기 - 코드 구현
+## <span style="color:red">PCM 음성 파일 제작기 - 코드 구현<span/>
 
 처음 녹음했던 방식의 코드는 꽤 길기 때문에 본 포스팅에는 내가 성공한 코드만 쓸 것이다.
 
