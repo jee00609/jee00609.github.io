@@ -156,7 +156,9 @@ fs = 16000 # sampling frequency 샘플링 주파수
 rec = sd.rec(duration * fs, samplerate=fs, channels=1, dtype='int16')
 sd.wait()
 pcm = rec.tostring()
-with open('sampleAudio.raw', 'wb') as w:
+
+# ETRI 에서 답변받은 것처럼 PCM 으로 된 RAW 파일을 저장!
+with open('sampleAudio.raw', 'wb') as w: 
     w.write(pcm)
    ```
 
