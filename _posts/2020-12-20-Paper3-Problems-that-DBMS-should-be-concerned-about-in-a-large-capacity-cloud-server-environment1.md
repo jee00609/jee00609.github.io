@@ -26,6 +26,8 @@ last_modified_at: 2020-12-20
 
 [대용량, 클라우드 서버 환경에서 DBMS가 고민해야할 문제 STEP 1](https://jee00609.github.io/paper/Paper3-Problems-that-DBMS-should-be-concerned-about-in-a-large-capacity-cloud-server-environment1/)
 
+[대용량, 클라우드 서버 환경에서 DBMS가 고민해야할 문제 STEP 2](https://jee00609.github.io/paper/Paper3-Problems-that-DBMS-should-be-concerned-about-in-a-large-capacity-cloud-server-environment2/)
+
 
 ## 목차
 
