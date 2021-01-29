@@ -27,7 +27,7 @@ last_modified_at: 2021-01-07
 
 합격자 발표 : 2021.04.02
 
-* [2020년 정보처리기사 1회](http://www.q-net.or.kr/crf021.do?id=crf02101&gSite=Q&gId=&scheType=01)
+* [2021년 정보처리기사 1회](http://www.q-net.or.kr/crf021.do?id=crf02101&gSite=Q&gId=&scheType=01)
 
 원서 접수 : 2021.03.31~2021.04.05
 
