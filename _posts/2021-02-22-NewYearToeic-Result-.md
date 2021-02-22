@@ -22,6 +22,7 @@ RC 에서 마지막 10문제를 못 풀고 찍은 것이 아쉽다. 다음번엔
 </figure>
 
 <figure class="align-center">
-  <img src="/assets/images/2021-02-22-toeic2.PNG">
+  <a href="/assets/images/2021-02-22-toeic2.PNG"><img src="/assets/images/2021-02-22-toeic2.PNG"></a>
   <figcaption>강점 약점</figcaption>
 </figure>
+
