@@ -50,7 +50,7 @@ AMD라면 Mullins / Beema / Carrizo 세대에 구현되어 있습니다.
 ## 자신의 TPM 2.0 인지 확인하기
 
 <figure class="align-center">
-  <a href="/assets/images/2021-06-26-window11-error2.PNG"><img src="/assets/images/2021-06-26-window11-error.PNG"></a>
+  <a href="/assets/images/2021-06-26-window11-error2.PNG"><img src="/assets/images/2021-06-26-window11-error2.PNG"></a>
   <figcaption>TPM 확인하기</figcaption>
 </figure>
 
