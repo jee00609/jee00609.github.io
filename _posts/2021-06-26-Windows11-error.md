@@ -47,6 +47,21 @@ AMD라면 Mullins / Beema / Carrizo 세대에 구현되어 있습니다.
   <figcaption>이유 정도는 정확히 알려줘...</figcaption>
 </figure>
 
+## 자신의 TPM 2.0 인지 확인하기
+
+<figure class="align-center">
+  <a href="/assets/images/2021-06-26-window11-error2.PNG"><img src="/assets/images/2021-06-26-window11-error.PNG"></a>
+  <figcaption>TPM 확인하기</figcaption>
+</figure>
+
+현재 자신의 PC가 위 두 기능을 지원하는지 확인하려면 우선 작업표시줄 검색창에 ‘장치 보안’이라고 입력한 뒤 해당 항목을 확인합시다.
+
+여기서 보안 프로세서(TPM) 버전과 보안 부팅 기능이 있는지 확인하면 됩니다. 
+
+이를 지원한다면 해당 항목이 표시되면서 ‘장치가 표준 하드웨어 보안 요구사항을 충족합니다’라는 메시지가 표시되고, 지원하지 않는다면 이 창에서 아무런 표시가 없으며 ‘표준 하드웨어 보안이 지원되지 않습니다’라는 메시지가 표시됩니다.
+
+본인은 1.16 이라 2.0 이 아니어서 호환이 안되는 듯 싶습니다.
+
 
 ## "이 PC에서 Windows 11를 실행할 수 없습니다" 해결 방법
 
@@ -64,3 +79,5 @@ AMD라면 Mullins / Beema / Carrizo 세대에 구현되어 있습니다.
 ## 비고
 
 [Windows 11で必須になった「TPM 2.0」って何？TPMの役割や確認方法を紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1334277.html)
+
+[윈도우 11 무료 업그레이드하려면 TPM 2.0과 보안 부팅 기능 필수](https://www.boannews.com/media/view.asp?idx=98604)
