@@ -2,7 +2,7 @@
 title: "Go 설치 및 Go 프로젝트 경로를 D 드라이브로 경로 바꾸기 - 윈도우"
 
 categories:
-  - QuickDraw
+  - Go
 tags: 
   - Go
   - Window
