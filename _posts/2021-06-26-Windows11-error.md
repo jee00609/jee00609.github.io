@@ -1,5 +1,5 @@
 ---
-title: "나의 컴퓨터 PC 에서 Windows 11 업그레이드 호환성 체크하기"
+title: "나의 컴퓨터 PC 에서  윈도우 11 (Windows 11) 업그레이드 호환성 체크하기 (윈도우 11 업그레이드 검사 프로그램 다운로드)"
 
 categories:
   - IT News

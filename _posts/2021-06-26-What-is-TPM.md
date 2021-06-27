@@ -1,5 +1,5 @@
 ---
-title: "윈도우 11 과 TPM2.0, TMP2.0 이란 무엇일까"
+title: "윈도우 11 과 TPM2.0, TMP 2.0 이란 무엇인가"
 
 categories:
   - IT News
