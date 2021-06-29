@@ -78,6 +78,8 @@ AMD라면 Mullins / Beema / Carrizo 세대에 구현되어 있습니다.
 
 ## 비고
 
+만약 TPM 이 무엇인지 알고 싶다면? <br/>["윈도우 11 과 TPM2.0, TMP 2.0 이란 무엇인가"](https://jee00609.github.io/it%20news/What-is-TPM/) 을 읽어주시길 바랍니다!
+
 [Windows 11で必須になった「TPM 2.0」って何？TPMの役割や確認方法を紹介](https://pc.watch.impress.co.jp/docs/topic/feature/1334277.html)
 
 [윈도우 11 무료 업그레이드하려면 TPM 2.0과 보안 부팅 기능 필수](https://www.boannews.com/media/view.asp?idx=98604)
