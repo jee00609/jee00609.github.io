@@ -69,11 +69,12 @@ public class WavToRaw {
 
 	// 리니어 PCM 인코딩 및 지정된 파라미터를 가지는 AudioFormat를 구축합니다.
 	// http://cris.joongbu.ac.kr/course/java/api/javax/sound/sampled/AudioFormat.html
-	private static final AudioFormat FORMAT = new AudioFormat(16_000, // 16 kHz, sampleRate
-			16, // 16 bits, sampleSizeInBits
-			1, // Mono, int channels
-			true, // Signed
-			false // Little endian, True is BigEndian
+	private static final AudioFormat FORMAT = new AudioFormat(
+		16_000, // 16 kHz, sampleRate
+		16, // 16 bits, sampleSizeInBits
+		1, // Mono, int channels
+		true, // Signed
+		false // Little endian, True is BigEndian
 	);
 
 	//바이트 배열을 Raw 파일로 저장
