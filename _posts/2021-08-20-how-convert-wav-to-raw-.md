@@ -1,14 +1,24 @@
 ---
-title: "[JAVA] WAV 파일을 RAW Data 로 변환하기 (Wav to Raw) - Step 1"
+title: "[JAVA] WAV 파일을 RAW Data 로 변환하기 - 미완성 (Wav to Raw) - Step 1"
 
 categories:
   - Java
 tags: 
   - Java
-  - Audio
+  - Wav
+  - Raw
   - Error
+  - ETRI
 last_modified_at: 2021-08-20
 ---
+
+## 목차
+
+[Step 1. WAV 파일을 RAW Data 로 변환하기 (Wav to Raw)](https://jee00609.github.io/java/how-convert-wav-to-raw/)
+
+[Step 2. WAV 파일을 RAW Data 로 변환 및 저장하기 완성! (Wav to Raw)](https://jee00609.github.io/java/how-convert-wav-to-raw2/)
+
+## 서문
 
 어쩌다 보니 Java 에서 Wav 파일을 Raw 데이터로 변환해야하는 기능을 만들어야 했다.
 

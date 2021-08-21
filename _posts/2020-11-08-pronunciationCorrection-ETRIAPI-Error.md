@@ -19,6 +19,8 @@ ETRI의 음성 인식 기술이나 발음 평가 기술을 이용할 때 홈페�
 
    * Step 1. [ETRI 공공 인공지능 오픈 API 발음 교정 - 초등학생을 위한 발음교정 프로그램 소개](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection/)
    * Step 2. [ETRI 공공 인공지능 오픈 API 발음 교정 - ETRI API 발음 평가 사용법](https://jee00609.github.io/pronunciationcorrection/pronunciationCorrection-ETRIAPI-Error/)
+   * Plus. [Java 를 통해 ETRI 발음 평가 API 사용해보기](https://jee00609.github.io/java/how-convert-wav-to-raw1/)
+
 
 ## ETRI 구현 예제
 
