@@ -20,7 +20,7 @@ last_modified_at: 2021-07-30
 ## 도서 관리 프로젝트 목차
 
 * Step 1. [스프링 (Spring Framework) 기반의 도서 관리 사이트 프로그램 소개](https://jee00609.github.io/spring/spring-gui-library1/)
-* Step 2. 스프링 (Spring Framework) 기반의 도서 관리 - 도서관 사이트 프로그램 제작기 (추 후 업데이트)
+* Step 2. [스프링 (Spring Framework) 기반의 도서 관리 - 도서관 사이트 프로그램 제작기](https://jee00609.github.io/spring/spring-gui-library2/)
 
 ## 도서 관리 프로그램 기본 세팅
 
