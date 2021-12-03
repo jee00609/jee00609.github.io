@@ -1,5 +1,5 @@
 ---
-title: "두 번 떨어지고 세 번 만에 붙은 2021년 3회 정보처리기사 합격 후기 (독학,인강)"
+title: "두 번 떨어지고 세 번 만에 붙은 2021년 정보처리기사 3회 실기 합격 후기 (독학,인강)"
 header:
   teaser: "/assets/images/2021-11-30-success.PNG"
 categories:
