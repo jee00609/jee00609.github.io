@@ -2,7 +2,7 @@
 title: "라이브 스트리밍 RTSP RTMP HLS 에 관한 정리"
 
 categories:
-  - Hanium
+  - Live Stream
 tags: 
   - Live Stream
   - RTSP
